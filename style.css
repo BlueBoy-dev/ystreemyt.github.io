@@ -1,0 +1,52 @@
+.hdr-color{
+    background-color: rgb(207, 19, 19);
+    color: white ;
+}
+.hvr:hover{
+    color: rgb(0, 0, 0);
+}
+body{
+    background-image:url(red-backgrounds-3.jpg);
+    overflow-x: hidden;
+}
+.m-img{
+    scale: 70%;
+    
+    
+}
+.cnt{
+    margin-top: 3rem;
+}
+.a{
+    color: rgb(104, 104, 225);
+    text-decoration: none;
+}
+.cnt-main{
+    background-color: rgb(71, 4, 4);
+    
+    border-radius: 30px;
+    padding-left: 1rem;
+    
+}
+
+.mm-img{
+    scale: 55%;
+    
+    
+}
+.a1{
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+}
+.b{
+    background-color: rgb(227, 7, 7);
+}
+.img-zoom:hover{
+    transform: scale(1.2);
+    
+
+}
+.img-zoom{
+    transition: 0.4s;
+}
+
